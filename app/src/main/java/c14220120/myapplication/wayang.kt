@@ -4,7 +4,7 @@ import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-data class wayang(
+data class  wayang(
     var foto : String,
     var nama : String,
     var karakter : String,
